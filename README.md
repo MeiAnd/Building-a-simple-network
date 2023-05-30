@@ -2,7 +2,7 @@
 
 ## The project's aim
 
-Building a simple network for a young startup **Hackers Poulette** easily scalable and all the host must be connected to internet using a switch and applying the IP addressing to the computers to allow communication between them.
+Building a simple network for a young startup **Hackers Poulette** easily scalable where all the host must be connected to internet using a switch and applying the IP addressing to the computers to allow communication between them.
 
 **Addressing table :**
 
@@ -19,4 +19,7 @@ Building a simple network for a young startup **Hackers Poulette** easily scalab
 - 3 PCs (Windows 10)
 - Three Ethernet cables
 
+## Final outcome
+
+![Final outcome](final.png)
 
